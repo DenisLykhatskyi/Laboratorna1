@@ -15,7 +15,7 @@ int main() {
 
     int numbers[MAX_ARRAY_SIZE];
     int sum_even = 0, count_even = 0;
-    long long product_odd = 1;  // Using long long to handle larger products
+    long long product_odd = 1;
     int count_odd = 0;
     int max_value, max_index = 0;
 
